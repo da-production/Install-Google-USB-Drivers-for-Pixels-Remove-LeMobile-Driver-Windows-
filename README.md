@@ -2,14 +2,14 @@
  I am not responsible for any damage caused or any data lost. Please make sure you understand the procedure and also make backups of anything important!
  
 ## Steps:
-Developer Options and Enable USB Debugging 
-Downloads (Google USB Driver and SDK Platform Tools)
-Removing the LeMobile USB Drivers
-Installing Google USB Driver to the ADB Interface (Part A)
-Install Google USB Drivers to Windows (Important! Part B)
-Testing the ADB connectivity (rebooting to the bootloader)
-Checking the drivers/device in the bootloader
-Add the SDK Platform Tools to the PATH environment variable
+- Developer Options and Enable USB Debugging 
+- Downloads (Google USB Driver and SDK Platform Tools)
+- Removing the LeMobile USB Drivers
+- Installing Google USB Driver to the ADB Interface (Part A)
+- Install Google USB Drivers to Windows (Important! Part B)
+- Testing the ADB connectivity (rebooting to the bootloader)
+- Checking the drivers/device in the bootloader
+- Add the SDK Platform Tools to the PATH environment variable
 
 ### Developer Options and Enable USB Debugging :
 First up you need to enable the developer options to do this go to 'about phone' and then tapping on 'build number' seven times or more until it says you are now a developer once done head back and now you can see developer options go to and enable USB debugging then plug-in your phone to your computer and then you should see a little icon in your phone say USB debuggin connected.
