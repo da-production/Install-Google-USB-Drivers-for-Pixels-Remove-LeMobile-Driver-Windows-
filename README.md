@@ -16,9 +16,9 @@ First up you need to enable the developer options to do this go to 'about phone'
 
 ### Downloads (Google USB Driver and SDK Platform Tools) :
 
-[Google USB Drivers Windows](https://developer.android.com/studio/run/win-usb)
-Follow the instructions 
-[Standalone SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools.html)
+-[Google USB Drivers Windows](https://developer.android.com/studio/run/win-usb)
+and Follow the instructions 
+-[Standalone SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools.html)
 
 ### Removing the LeMobile USB Drivers : (If you don't LeMobile USB Driver in your Devices Manager you can skeep this step)
 
